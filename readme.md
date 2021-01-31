@@ -1,8 +1,10 @@
 Here is my readme file for assignment 3
 
 The error handled python file is:
+leapyear_error_handle.py
 
 The non-error handled python file is:
+leapyear_no_error_handle.py
 
 ![alt text](https://github.com/PeterJBloch/CS362_HW3/SE2_HW1.png)
 
